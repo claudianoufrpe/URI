@@ -2,8 +2,6 @@
 # TITLE: Loop Musical
 # ID: 1089
 
-# -*- coding: utf-8 -*-
-
 while (True):
     peak = 0
     size = int(raw_input())

@@ -2,8 +2,6 @@
 # TITLE: Lanche
 # ID: 1038
 
-# -*- coding: utf-8 -*-
-
 entrada = raw_input().split()
 quantidade = int(entrada[1])
 

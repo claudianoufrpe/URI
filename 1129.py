@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Leitura Ótica
+# TITLE: Leitura Otica
 # ID: 1129
-
-# -*- coding: utf-8 -*-
 
 answer = ['A', 'B', 'C', 'D', 'E']
 

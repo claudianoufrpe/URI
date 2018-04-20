@@ -2,8 +2,6 @@
 # TITLE: Alarme Despertador
 # ID: 1103
 
-# -*- coding: utf-8 -*-
-
 while (True):
     entrada = raw_input().split()
     

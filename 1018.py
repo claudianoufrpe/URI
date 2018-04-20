@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Cédulas
+# TITLE: Cedulas
 # ID: 1018
-
-# -*- coding: utf-8 -*-
 
 dinheiro = int(raw_input())
 print dinheiro

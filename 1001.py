@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Extremamente Básico
+# TITLE: Extremamente Basico
 # ID: 1001
-
-# -*- coding: utf-8 -*-
 
 a = int(raw_input())
 b = int(raw_input())

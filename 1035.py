@@ -2,8 +2,6 @@
 # TITLE: Teste de Seleção 1
 # ID: 1035
 
-# -*- coding: utf-8 -*-
-
 valores = raw_input().split()
 
 a = int(valores[0])

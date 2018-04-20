@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Distância Entre Dois Pontos
+# TITLE: Distancia Entre Dois Pontos
 # ID: 1015
-
-# -*- coding: utf-8 -*-
 
 import math
 

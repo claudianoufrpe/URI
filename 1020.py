@@ -2,8 +2,6 @@
 # TITLE: Idade em Dias
 # ID: 1020
 
-# -*- coding: utf-8 -*-
-
 dia = int(raw_input())
 
 mes = 0

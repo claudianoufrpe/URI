@@ -2,8 +2,6 @@
 # TITLE: Maior Número de Um Algarismo
 # ID: 1867
 
-# -*- coding: utf-8 -*-
-
 while (True):
     numbers = raw_input()
 

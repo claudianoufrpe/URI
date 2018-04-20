@@ -2,8 +2,6 @@
 # TITLE: Intervalo
 # ID: 1037 
 
-# -*- coding: utf-8 -*-
-
 num = float(raw_input())
 
 if (0 <= num <= 25):

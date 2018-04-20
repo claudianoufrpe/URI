@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Gasto de Combustível
+# TITLE: Gasto de Combustivel
 # ID: 1017
-
-# -*- coding: utf-8 -*-
 
 tempo = int(raw_input())
 velocidade = int(raw_input())

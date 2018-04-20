@@ -2,8 +2,6 @@
 # TITLE: Teclado Quebrado
 # ID: 1451
 
-# -*- coding: utf-8 -*-
-
 while (True):
     try:
         beiju = aux = ''

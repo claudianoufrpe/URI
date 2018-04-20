@@ -2,8 +2,6 @@
 # TITLE: Sub-prime
 # ID: 1105
 
-# -*- coding: utf-8 -*-
-
 while (True):
     size = map(int, raw_input().split())
     result = 'S'

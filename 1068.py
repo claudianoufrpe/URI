@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-
 # @author Matheus Alves dos Santos
-# TITLE: Balanço de Parênteses I
+# TITLE: Balanco de Parenteses I
 # ID: 1068
 
 while (True):

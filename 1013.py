@@ -2,8 +2,6 @@
 # TITLE: O Maior
 # ID: 1013
 
-# -*- coding: utf-8 -*-
-
 value = raw_input().split()
 
 a = int(value[0])

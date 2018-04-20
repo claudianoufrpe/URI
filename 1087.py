@@ -2,8 +2,6 @@
 # TITLE: Dama
 # ID: 1087
 
-# -*- coding: utf-8 -*-
-
 while True:
     entrada = raw_input().split()
     

@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Distância
+# TITLE: Distancia
 # ID: 1016
-
-# -*- coding: utf-8 -*-
 
 dist = int(raw_input())
 

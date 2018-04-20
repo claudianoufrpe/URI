@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Área do Círculo
+# TITLE: Area do Circulo
 # ID: 1002
-
-# -*- coding: utf-8 -*-
 
 r = float(raw_input())
 

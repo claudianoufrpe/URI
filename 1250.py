@@ -2,8 +2,6 @@
 # TITLE: KiloMan
 # ID: 1250
 
-# -*- coding: utf-8 -*-
-
 number = int(raw_input())
 
 for i in range(number):

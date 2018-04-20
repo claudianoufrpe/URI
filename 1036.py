@@ -2,8 +2,6 @@
 # TITLE: Fórmula de Bhaskara
 # ID: 1036
 
-# -*- coding: utf-8 -*-
-
 import math
 
 valores = raw_input().split()

@@ -2,8 +2,6 @@
 # TITLE: Dígitos Diferentes
 # ID: 1285
 
-# -*- coding: utf-8 -*-
-
 while (True):
     try:
         limites = map(int, raw_input().split())

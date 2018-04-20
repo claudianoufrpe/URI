@@ -2,8 +2,6 @@
 # TITLE: Dado
 # ID: 1342
 
-# -*- coding: utf-8 -*-
-
 while (True):
     info = map(int, raw_input().split())
     

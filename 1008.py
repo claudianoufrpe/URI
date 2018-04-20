@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Salário
+# TITLE: Salario
 # ID: 1008
-
-# -*- coding: utf-8 -*-
 
 number = int(raw_input())
 hours = int(raw_input())

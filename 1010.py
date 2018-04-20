@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Gasto de Combustível
+# TITLE: Gasto de Combustivel
 # ID: 1010
-
-# -*- coding: utf-8 -*-
 
 piece1 = raw_input().split()
 piece2 = raw_input().split()

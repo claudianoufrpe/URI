@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Conversão de Tempo
+# TITLE: Conversao de Tempo
 # ID: 1019
-
-# -*- coding: utf-8 -*-
 
 segundo = int(raw_input())
 

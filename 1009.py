@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Salário com Bônus
+# TITLE: Salario com Bonus
 # ID: 1009
-
-# -*- coding: utf-8 -*-
 
 name = raw_input()
 salary = float(raw_input())

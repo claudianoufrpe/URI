@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Divisão da Nlogônia
+# TITLE: Divisao da Nlogonia
 # ID: 1091
-
-# -*- coding: utf-8 -*-
 
 while (True):
     query = int(raw_input())

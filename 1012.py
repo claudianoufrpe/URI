@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Área
+# TITLE: Area
 # ID: 1012
-
-# -*- coding: utf-8 -*-
 
 value = raw_input().split()
 

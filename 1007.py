@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Diferença
+# TITLE: Diferenca
 # ID: 1007
-
-# -*- coding: utf-8 -*-
 
 a = int(raw_input())
 b = int(raw_input())

@@ -1,8 +1,6 @@
 # @author Matheus Alves dos Santos
-# TITLE: Média 2
+# TITLE: Media 2
 # ID: 1006
-
-# -*- coding: utf-8 -*-
 
 a = float(raw_input())
 b = float(raw_input())
